@@ -1,1 +1,15 @@
 git 学习记录
+
+超哥地址
+github：https://github.com/lilichao/vue-course
+gitee：https://gitee.com/ymhold/vue-course
+
+廖雪峰老师git讲解地址
+https://www.liaoxuefeng.com/wiki/896043488029600
+
+
+git
+把文件往Git版本库里添加分两步：
+    1 git add 把文件更改添加到暂存区
+    2 git commit 提交更改，把暂存区的所有内容提交到当前分支
+    即需要提交的文件修改放到暂存区，然后一次性提交暂存区的所有修改
